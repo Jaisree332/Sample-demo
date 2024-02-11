@@ -1,3 +1,3 @@
 # Sample-demo
 This is my first Git repository
-Author - Jaisree
+Author - Jaisree Jonnalagadda
